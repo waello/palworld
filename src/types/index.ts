@@ -23,7 +23,7 @@ interface Aura {
   description: string;
 }
 
-interface Stat {
+interface Stats {
   [key: string]: number | string;
 }
 
@@ -36,7 +36,7 @@ interface Pal {
   aura: Aura;
   drops: string[];
   description: string;
-  stats: Stat[];
+  stats: Stats;
 }
 
 class PalClass implements Pal {
@@ -48,7 +48,7 @@ class PalClass implements Pal {
   aura: Aura;
   drops: string[];
   description: string;
-  stats: Stat[];
+  stats: Stats; // Ensure this matches the interface name
 
   constructor(data: any) {
     this.name = data.name;
@@ -63,7 +63,7 @@ class PalClass implements Pal {
     this.stats = this.mapStats(data.stats);
   }
 
-  private mapStats(statsArray: any[]): Stats {
+  private mapStats(statsArray: any[]): Stats { // Ensure this uses the 'Stats' interface
     const stats: Stats = {};
     statsArray.forEach(stat => {
       Object.keys(stat).forEach(key => {
