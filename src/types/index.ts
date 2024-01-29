@@ -58,6 +58,7 @@ class PalClass implements Pal {
         data.types.map((t: string) => t.charAt(0).toUpperCase() + t.slice(1).toLowerCase()) as PalType[] :
         [];
     this.skills = data.skills;
+    this.aura = data.aura;
     this.drops = data.drops;
     this.description = data.description;
     this.stats = this.mapStats(data.stats);
