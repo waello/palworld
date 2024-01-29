@@ -62,8 +62,6 @@ export default function HomePage() {
             Compatible Parents
           </h2>
         )}
-
-
         {getBreedingCombinations(targetPal).map((combination, index) => (
           <div
             key={index}
@@ -93,14 +91,6 @@ export default function HomePage() {
                   </span>
                   <span className="text-xs font-medium text-muted-foreground">
                     Breeding power
-                  </span>
-                </div>
-                <div className="mt-3 flex flex-col items-center text-sm">
-                  <span className="text-xl font-medium tabular-nums leading-tight tracking-tighter">
-                    {pal.stats['Attack']}
-                  </span>
-                  <span className="text-xs font-medium text-muted-foreground">
-                    attack Power
                   </span>
                 </div>
               </div>
