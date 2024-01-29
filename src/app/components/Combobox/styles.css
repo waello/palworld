@@ -1,0 +1,3 @@
+[data-radix-popper-content-wrapper]:has(#child-selector) {
+    min-width: 50% !important;
+}
