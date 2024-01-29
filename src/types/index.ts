@@ -75,4 +75,5 @@ class PalClass implements Pal {
   }
 }
 
-export { Pal, PalType, PalClass };
+export type { Pal, PalType, Aura, Skill, Stats }; // Exporting types/interfaces
+export { PalClass }; // Exporting the class
