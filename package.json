@@ -25,8 +25,6 @@
     "next-themes": "^0.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-            "nodemon": "^3.0.3",
-
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^0.8.9",
@@ -47,13 +45,11 @@
     "prettier": "^3.1.0",
     "prettier-plugin-tailwindcss": "^0.5.7",
     "sharp": "^0.33.2",
-        "nodemon": "^3.0.3",
-
     "tailwindcss": "^3.3.5",
     "typescript": "^5.1.6"
   },
   "ct3aMetadata": {
     "initVersion": "7.26.0"
   },
-  "packageManager": "npm@8.11.0"
+  "packageManager": "pnpm@8.11.0"
 }
