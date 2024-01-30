@@ -1,0 +1,5717 @@
+[
+    {
+        "No": 1,
+        "Name": "Lamball",
+        "IntName": "SheepBall",
+        "Rarity": 1,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Handi": 1,
+            "Farm": 1,
+            "Trans": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Wool",
+            "Lamball Mutton"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 40,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Wool": [
+                1,
+                3,
+                100
+            ],
+            "Lamball Mutton": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 2,
+        "Name": "Cattiva",
+        "IntName": "PinkCat",
+        "Rarity": 1,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Handi": 1,
+            "Gather": 1,
+            "Mining": 1,
+            "Trans": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Red Berries"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 60,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Red Berries": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 3,
+        "Name": "Chikipi",
+        "IntName": "ChickenPal",
+        "Rarity": 1,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Gather": 1,
+            "Farm": 1
+        },
+        "Food": 1,
+        "Drops": [
+            "Egg",
+            "Chikipi Poultry"
+        ],
+        "Stats": {
+            "HP": 60,
+            "Def": 60,
+            "Melee": 70,
+            "Shot": 60,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 50,
+            "RSpeed": 375,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Egg": [
+                1,
+                1,
+                100
+            ],
+            "Chikipi Poultry": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 4,
+        "Name": "Lifmunk",
+        "IntName": "Carbunclo",
+        "Rarity": 1,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Plant": 1,
+            "Handi": 1,
+            "Gather": 1,
+            "Lumber": 1,
+            "Med": 1
+        },
+        "Food": 1,
+        "Drops": [
+            "Berry Seeds",
+            "Low Grade Medical Supplies"
+        ],
+        "Stats": {
+            "HP": 75,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 40,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Berry Seeds": [
+                1,
+                1,
+                100
+            ],
+            "Low Grade Medical Supplies": [
+                1,
+                1,
+                20
+            ]
+        }
+    },
+    {
+        "No": 5,
+        "Name": "Foxparks",
+        "IntName": "Kitsunebi",
+        "Rarity": 1,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Leather",
+            "Flame Organ"
+        ],
+        "Stats": {
+            "HP": 65,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 75,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 80,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                1,
+                1,
+                100
+            ],
+            "Flame Organ": [
+                1,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 6,
+        "Name": "Fuack",
+        "IntName": "BluePlatypus",
+        "Rarity": 1,
+        "Type": [
+            "Water"
+        ],
+        "Work": {
+            "Water": 1,
+            "Handi": 1,
+            "Trans": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Leather",
+            "Pal Fluids"
+        ],
+        "Stats": {
+            "HP": 60,
+            "Def": 60,
+            "Melee": 80,
+            "Shot": 80,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 105,
+            "RSpeed": 300,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                1,
+                1,
+                100
+            ],
+            "Pal Fluids": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 7,
+        "Name": "Sparkit",
+        "IntName": "ElecCat",
+        "Rarity": 1,
+        "Type": [
+            "Electric"
+        ],
+        "Work": {
+            "Elec": 1,
+            "Handi": 1,
+            "Trans": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Electric Organ"
+        ],
+        "Stats": {
+            "HP": 60,
+            "Def": 70,
+            "Melee": 60,
+            "Shot": 75,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 80,
+            "RSpeed": 350,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Electric Organ": [
+                1,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 8,
+        "Name": "Tanzee",
+        "IntName": "Monkey",
+        "Rarity": 1,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Plant": 1,
+            "Handi": 1,
+            "Gather": 1,
+            "Lumber": 1,
+            "Trans": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Mushroom"
+        ],
+        "Stats": {
+            "HP": 80,
+            "Def": 0,
+            "Melee": 100,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 48,
+            "RSpeed": 300,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Mushroom": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 9,
+        "Name": "Rooby",
+        "IntName": "FlameBambi",
+        "Rarity": 2,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Flame Organ",
+            "Leather"
+        ],
+        "Stats": {
+            "HP": 75,
+            "Def": 75,
+            "Melee": 100,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 100,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                2,
+                3,
+                100
+            ],
+            "Leather": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 10,
+        "Name": "Pengullet",
+        "IntName": "Penguin",
+        "Rarity": 1,
+        "Type": [
+            "Water",
+            "Ice"
+        ],
+        "Work": {
+            "Water": 1,
+            "Handi": 1,
+            "Cool": 1,
+            "Trans": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Ice Organ",
+            "Pal Fluids"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 75,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 60,
+            "RSpeed": 500,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Ice Organ": [
+                1,
+                2,
+                100
+            ],
+            "Pal Fluids": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 11,
+        "Name": "Penking",
+        "IntName": "CaptainPenguin",
+        "Rarity": 6,
+        "Type": [
+            "Water",
+            "Ice"
+        ],
+        "Work": {
+            "Water": 2,
+            "Handi": 2,
+            "Mining": 2,
+            "Cool": 2,
+            "Trans": 2
+        },
+        "Food": 8,
+        "Drops": [
+            "Ice Organ",
+            "Penking Plume"
+        ],
+        "Stats": {
+            "HP": 95,
+            "Def": 0,
+            "Melee": 70,
+            "Shot": 95,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 110,
+            "RSpeed": 450,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Ice Organ": [
+                1,
+                3,
+                100
+            ],
+            "Penking Plume": [
+                1,
+                1,
+                50
+            ]
+        }
+    },
+    {
+        "No": 12,
+        "Name": "Jolthog",
+        "IntName": "Hedgehog",
+        "Rarity": 1,
+        "Type": [
+            "Electric"
+        ],
+        "Work": {
+            "Elec": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Electric Organ"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 75,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 60,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Electric Organ": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 12,
+        "Name": "Jolthog Cryst",
+        "IntName": "Hedgehog_Ice",
+        "Rarity": 2,
+        "Type": [
+            "Ice"
+        ],
+        "Work": {
+            "Cool": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Ice Organ"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 75,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 60,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Ice Organ": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 13,
+        "Name": "Gumoss",
+        "IntName": "PlantSlime",
+        "Rarity": 1,
+        "Type": [
+            "Grass",
+            "Ground"
+        ],
+        "Work": {
+            "Plant": 1
+        },
+        "Food": 1,
+        "Drops": [
+            "Berry Seeds",
+            "Gumoss Lead"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 0,
+            "Melee": 100,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 50,
+            "RSpeed": 300,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Berry Seeds": [
+                1,
+                1,
+                100
+            ],
+            "Gumoss Lead": [
+                1,
+                1,
+                50
+            ]
+        }
+    },
+    {
+        "No": 14,
+        "Name": "Vixy",
+        "IntName": "CuteFox",
+        "Rarity": 2,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Gather": 1,
+            "Farm": 1
+        },
+        "Food": 1,
+        "Drops": [
+            "Leather",
+            "Bone"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 60,
+            "RSpeed": 350,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                1,
+                1,
+                100
+            ],
+            "Bone": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 15,
+        "Name": "Hoocrates",
+        "IntName": "WizardOwl",
+        "Rarity": 1,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Gather": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Fiber",
+            "High Grade Technical Manual"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 80,
+            "Melee": 70,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 70,
+            "RSpeed": 380,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Fiber": [
+                5,
+                10,
+                100
+            ],
+            "High Grade Technical Manual": [
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "No": 16,
+        "Name": "Teafant",
+        "IntName": "Ganesha",
+        "Rarity": 1,
+        "Type": [
+            "Water"
+        ],
+        "Work": {
+            "Water": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Pal Fluids"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 60,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 60,
+            "RSpeed": 300,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Pal Fluids": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 17,
+        "Name": "Depresso",
+        "IntName": "NegativeKoala",
+        "Rarity": 1,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Handi": 1,
+            "Mining": 1,
+            "Trans": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Venom Gland"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 10,
+            "RSpeed": 300,
+            "MaleProb": 50,
+            "Noct": true
+        },
+        "Loot": {
+            "Venom Gland": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 18,
+        "Name": "Cremis",
+        "IntName": "WoolFox",
+        "Rarity": 1,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Gather": 1,
+            "Farm": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Wool"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 75,
+            "Melee": 100,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 40,
+            "RSpeed": 300,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Wool": [
+                1,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 19,
+        "Name": "Daedream",
+        "IntName": "DreamDemon",
+        "Rarity": 1,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Handi": 1,
+            "Gather": 1,
+            "Trans": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Venom Gland",
+            "Small Pal Soul"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 60,
+            "Melee": 100,
+            "Shot": 75,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 140,
+            "RSpeed": 300,
+            "MaleProb": 50,
+            "Noct": true
+        },
+        "Loot": {
+            "Venom Gland": [
+                1,
+                1,
+                100
+            ],
+            "Small Pal Soul": [
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "No": 20,
+        "Name": "Rushoar",
+        "IntName": "Boar",
+        "Rarity": 1,
+        "Type": [
+            "Ground"
+        ],
+        "Work": {
+            "Mining": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Rushoar Pork",
+            "Leather",
+            "Bone"
+        ],
+        "Stats": {
+            "HP": 80,
+            "Def": 70,
+            "Melee": 100,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 150,
+            "RSpeed": 450,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Rushoar Pork": [
+                1,
+                2,
+                100
+            ],
+            "Leather": [
+                1,
+                1,
+                100
+            ],
+            "Bone": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 21,
+        "Name": "Nox",
+        "IntName": "NightFox",
+        "Rarity": 6,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Gather": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Leather",
+            "Small Pal Soul"
+        ],
+        "Stats": {
+            "HP": 75,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 85,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 60,
+            "RSpeed": 300,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                1,
+                3,
+                100
+            ],
+            "Small Pal Soul": [
+                1,
+                1,
+                40
+            ]
+        }
+    },
+    {
+        "No": 22,
+        "Name": "Fuddler",
+        "IntName": "CuteMole",
+        "Rarity": 1,
+        "Type": [
+            "Ground"
+        ],
+        "Work": {
+            "Handi": 1,
+            "Mining": 1,
+            "Trans": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Leather"
+        ],
+        "Stats": {
+            "HP": 65,
+            "Def": 50,
+            "Melee": 100,
+            "Shot": 80,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 60,
+            "RSpeed": 300,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                1,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 23,
+        "Name": "Killamari",
+        "IntName": "NegativeOctopus",
+        "Rarity": 1,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Gather": 1,
+            "Trans": 2
+        },
+        "Food": 3,
+        "Drops": [
+            "Venom Gland"
+        ],
+        "Stats": {
+            "HP": 60,
+            "Def": 70,
+            "Melee": 100,
+            "Shot": 60,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 120,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": true
+        },
+        "Loot": {
+            "Venom Gland": [
+                2,
+                4,
+                100
+            ]
+        }
+    },
+    {
+        "No": 24,
+        "Name": "Mau",
+        "IntName": "Bastet",
+        "Rarity": 1,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Farm": 1
+        },
+        "Food": 1,
+        "Drops": [
+            "Gold Coin"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 60,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 105,
+            "RSpeed": 475,
+            "MaleProb": 50,
+            "Noct": true
+        },
+        "Loot": {
+            "Gold Coin": [
+                100,
+                200,
+                50
+            ]
+        }
+    },
+    {
+        "No": 24,
+        "Name": "Mau Cryst",
+        "IntName": "Bastet_Ice",
+        "Rarity": 2,
+        "Type": [
+            "Ice"
+        ],
+        "Work": {
+            "Cool": 1,
+            "Farm": 1
+        },
+        "Food": 1,
+        "Drops": [
+            "Ice Organ",
+            "Sapphire"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 60,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 105,
+            "RSpeed": 475,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Ice Organ": [
+                1,
+                2,
+                100
+            ],
+            "Sapphire": [
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "No": 25,
+        "Name": "Celaray",
+        "IntName": "FlyingManta",
+        "Rarity": 3,
+        "Type": [
+            "Water"
+        ],
+        "Work": {
+            "Water": 1,
+            "Trans": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Pal Fluids"
+        ],
+        "Stats": {
+            "HP": 80,
+            "Def": 80,
+            "Melee": 100,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 150,
+            "RSpeed": 550,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Pal Fluids": [
+                1,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 26,
+        "Name": "Direhowl",
+        "IntName": "Garm",
+        "Rarity": 2,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Gather": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Leather",
+            "Ruby",
+            "Gold Coin"
+        ],
+        "Stats": {
+            "HP": 80,
+            "Def": 75,
+            "Melee": 110,
+            "Shot": 90,
+            "Craft": 100,
+            "Stam": 70,
+            "WSpeed": 180,
+            "RSpeed": 800,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                1,
+                2,
+                100
+            ],
+            "Ruby": [
+                1,
+                1,
+                3
+            ],
+            "Gold Coin": [
+                10,
+                20,
+                3
+            ]
+        }
+    },
+    {
+        "No": 27,
+        "Name": "Tocotoco",
+        "IntName": "ColorfulBird",
+        "Rarity": 1,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Gather": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Gunpowder",
+            "Tocotoco Feather"
+        ],
+        "Stats": {
+            "HP": 60,
+            "Def": 70,
+            "Melee": 80,
+            "Shot": 75,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 60,
+            "RSpeed": 300,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Gunpowder": [
+                1,
+                1,
+                100
+            ],
+            "Tocotoco Feather": [
+                1,
+                1,
+                50
+            ]
+        }
+    },
+    {
+        "No": 28,
+        "Name": "Flopie",
+        "IntName": "FlowerRabbit",
+        "Rarity": 1,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Plant": 1,
+            "Handi": 1,
+            "Gather": 1,
+            "Med": 1,
+            "Trans": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Low Grade Medical Supplies",
+            "Wheat Seeds"
+        ],
+        "Stats": {
+            "HP": 75,
+            "Def": 70,
+            "Melee": 100,
+            "Shot": 65,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 100,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Low Grade Medical Supplies": [
+                1,
+                1,
+                20
+            ],
+            "Wheat Seeds": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 29,
+        "Name": "Mozzarina",
+        "IntName": "CowPal",
+        "Rarity": 2,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Farm": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Mozzarina Meat",
+            "Mozzarina Milk"
+        ],
+        "Stats": {
+            "HP": 90,
+            "Def": 80,
+            "Melee": 100,
+            "Shot": 50,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 55,
+            "RSpeed": 580,
+            "MaleProb": 20,
+            "Noct": false
+        },
+        "Loot": {
+            "Mozzarina Meat": [
+                2,
+                3,
+                100
+            ],
+            "Mozzarina Milk": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 30,
+        "Name": "Bristla",
+        "IntName": "LittleBriarRose",
+        "Rarity": 1,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Plant": 1,
+            "Handi": 1,
+            "Gather": 1,
+            "Med": 2,
+            "Trans": 1
+        },
+        "Food": 5,
+        "Drops": [
+            "Wheat Seeds",
+            "Lettuce Seeds"
+        ],
+        "Stats": {
+            "HP": 80,
+            "Def": 80,
+            "Melee": 80,
+            "Shot": 80,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 100,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Wheat Seeds": [
+                1,
+                2,
+                100
+            ],
+            "Lettuce Seeds": [
+                1,
+                1,
+                50
+            ]
+        }
+    },
+    {
+        "No": 31,
+        "Name": "Gobfin",
+        "IntName": "SharkKid",
+        "Rarity": 2,
+        "Type": [
+            "Water"
+        ],
+        "Work": {
+            "Water": 1,
+            "Handi": 1,
+            "Trans": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Pal Fluids"
+        ],
+        "Stats": {
+            "HP": 90,
+            "Def": 75,
+            "Melee": 90,
+            "Shot": 90,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 80,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Pal Fluids": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 31,
+        "Name": "Gobfin Ignis",
+        "IntName": "SharkKid_Fire",
+        "Rarity": 3,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 1,
+            "Handi": 1,
+            "Trans": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Flame Organ"
+        ],
+        "Stats": {
+            "HP": 90,
+            "Def": 75,
+            "Melee": 90,
+            "Shot": 90,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 80,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 32,
+        "Name": "Hangyu",
+        "IntName": "Windchimes",
+        "Rarity": 1,
+        "Type": [
+            "Ground"
+        ],
+        "Work": {
+            "Handi": 1,
+            "Gather": 1,
+            "Trans": 2
+        },
+        "Food": 2,
+        "Drops": [
+            "Fiber"
+        ],
+        "Stats": {
+            "HP": 80,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 100,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Fiber": [
+                5,
+                10,
+                100
+            ]
+        }
+    },
+    {
+        "No": 32,
+        "Name": "Hangyu Cryst",
+        "IntName": "Windchimes_Ice",
+        "Rarity": 2,
+        "Type": [
+            "Ice"
+        ],
+        "Work": {
+            "Handi": 1,
+            "Gather": 1,
+            "Trans": 2,
+            "Cool": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Fiber",
+            "Ice Organ"
+        ],
+        "Stats": {
+            "HP": 80,
+            "Def": 70,
+            "Melee": 70,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 100,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Fiber": [
+                5,
+                10,
+                100
+            ],
+            "Ice Organ": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 33,
+        "Name": "Mossanda",
+        "IntName": "GrassPanda",
+        "Rarity": 6,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Plant": 2,
+            "Handi": 2,
+            "Lumber": 2,
+            "Trans": 3
+        },
+        "Food": 5,
+        "Drops": [
+            "Mushroom",
+            "Leather",
+            "Tomato Seeds"
+        ],
+        "Stats": {
+            "HP": 100,
+            "Def": 90,
+            "Melee": 100,
+            "Shot": 90,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 100,
+            "RSpeed": 500,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Mushroom": [
+                2,
+                3,
+                100
+            ],
+            "Leather": [
+                2,
+                3,
+                100
+            ],
+            "Tomato Seeds": [
+                1,
+                1,
+                50
+            ]
+        }
+    },
+    {
+        "No": 33,
+        "Name": "Mossanda Lux",
+        "IntName": "GrassPanda_Electric",
+        "Rarity": 7,
+        "Type": [
+            "Electric"
+        ],
+        "Work": {
+            "Elec": 2,
+            "Handi": 2,
+            "Lumber": 2,
+            "Trans": 3
+        },
+        "Food": 5,
+        "Drops": [
+            "Mushroom",
+            "Leather",
+            "Electric Organ"
+        ],
+        "Stats": {
+            "HP": 100,
+            "Def": 90,
+            "Melee": 100,
+            "Shot": 90,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 100,
+            "RSpeed": 500,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Mushroom": [
+                2,
+                3,
+                100
+            ],
+            "Leather": [
+                2,
+                3,
+                100
+            ],
+            "Electric Organ": [
+                1,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 34,
+        "Name": "Woolipop",
+        "IntName": "SweetsSheep",
+        "Rarity": 3,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Farm": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Cotton Candy",
+            "High Quality Pal Oil"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 90,
+            "Melee": 70,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 100,
+            "RSpeed": 300,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Cotton Candy": [
+                1,
+                2,
+                100
+            ],
+            "High Quality Pal Oil": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 35,
+        "Name": "Caprity",
+        "IntName": "BerryGoat",
+        "Rarity": 3,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Plant": 2,
+            "Farm": 1
+        },
+        "Food": 4,
+        "Drops": [
+            "Caprity Meat",
+            "Red Berries",
+            "Horn"
+        ],
+        "Stats": {
+            "HP": 100,
+            "Def": 90,
+            "Melee": 70,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 70,
+            "RSpeed": 400,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Caprity Meat": [
+                2,
+                2,
+                100
+            ],
+            "Red Berries": [
+                2,
+                4,
+                100
+            ],
+            "Horn": [
+                1,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 36,
+        "Name": "Melpaca",
+        "IntName": "Alpaca",
+        "Rarity": 3,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Farm": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Wool",
+            "Leather"
+        ],
+        "Stats": {
+            "HP": 90,
+            "Def": 90,
+            "Melee": 90,
+            "Shot": 75,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 62,
+            "RSpeed": 460,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Wool": [
+                2,
+                5,
+                100
+            ],
+            "Leather": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 37,
+        "Name": "Eikthyrdeer",
+        "IntName": "Deer",
+        "Rarity": 4,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Lumber": 2
+        },
+        "Food": 5,
+        "Drops": [
+            "Eikthyrdeer Venison",
+            "Leather",
+            "Horn"
+        ],
+        "Stats": {
+            "HP": 95,
+            "Def": 80,
+            "Melee": 70,
+            "Shot": 80,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 120,
+            "RSpeed": 700,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Eikthyrdeer Venison": [
+                2,
+                2,
+                100
+            ],
+            "Leather": [
+                2,
+                3,
+                100
+            ],
+            "Horn": [
+                2,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 37,
+        "Name": "Eikthyrdeer Terra",
+        "IntName": "Deer_Ground",
+        "Rarity": 6,
+        "Type": [
+            "Ground"
+        ],
+        "Work": {
+            "Lumber": 2
+        },
+        "Food": 5,
+        "Drops": [
+            "Eikthyrdeer Venison",
+            "Leather",
+            "Horn"
+        ],
+        "Stats": {
+            "HP": 95,
+            "Def": 80,
+            "Melee": 70,
+            "Shot": 80,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 120,
+            "RSpeed": 700,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Eikthyrdeer Venison": [
+                2,
+                2,
+                100
+            ],
+            "Leather": [
+                2,
+                3,
+                100
+            ],
+            "Horn": [
+                2,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 38,
+        "Name": "Nitewing",
+        "IntName": "HawkBird",
+        "Rarity": 3,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Gather": 2
+        },
+        "Food": 7,
+        "Drops": [
+            "Leather"
+        ],
+        "Stats": {
+            "HP": 100,
+            "Def": 80,
+            "Melee": 100,
+            "Shot": 95,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 150,
+            "RSpeed": 600,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                1,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 39,
+        "Name": "Ribbuny",
+        "IntName": "PinkRabbit",
+        "Rarity": 1,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Handi": 1,
+            "Gather": 1,
+            "Trans": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Leather",
+            "Beautiful Flower"
+        ],
+        "Stats": {
+            "HP": 75,
+            "Def": 70,
+            "Melee": 100,
+            "Shot": 65,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 100,
+            "RSpeed": 245,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                1,
+                1,
+                100
+            ],
+            "Beautiful Flower": [
+                1,
+                1,
+                5
+            ]
+        }
+    },
+    {
+        "No": 40,
+        "Name": "Incineram",
+        "IntName": "Baphomet",
+        "Rarity": 4,
+        "Type": [
+            "Fire",
+            "Dark"
+        ],
+        "Work": {
+            "Kind": 1,
+            "Handi": 2,
+            "Mining": 1,
+            "Trans": 2
+        },
+        "Food": 4,
+        "Drops": [
+            "Horn",
+            "Leather"
+        ],
+        "Stats": {
+            "HP": 95,
+            "Def": 85,
+            "Melee": 150,
+            "Shot": 100,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 160,
+            "RSpeed": 700,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Horn": [
+                1,
+                1,
+                100
+            ],
+            "Leather": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 40,
+        "Name": "Incineram Noct",
+        "IntName": "Baphomet_Dark",
+        "Rarity": 5,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Handi": 2,
+            "Mining": 1,
+            "Trans": 2
+        },
+        "Food": 4,
+        "Drops": [
+            "Horn",
+            "Leather"
+        ],
+        "Stats": {
+            "HP": 95,
+            "Def": 85,
+            "Melee": 150,
+            "Shot": 105,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 160,
+            "RSpeed": 700,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Horn": [
+                1,
+                1,
+                100
+            ],
+            "Leather": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 41,
+        "Name": "Cinnamoth",
+        "IntName": "CuteButterfly",
+        "Rarity": 4,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Plant": 2,
+            "Med": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Honey",
+            "Lettuce Seeds",
+            "Wheat Seeds"
+        ],
+        "Stats": {
+            "HP": 70,
+            "Def": 80,
+            "Melee": 100,
+            "Shot": 80,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 150,
+            "RSpeed": 550,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Honey": [
+                1,
+                1,
+                100
+            ],
+            "Lettuce Seeds": [
+                1,
+                1,
+                20
+            ],
+            "Wheat Seeds": [
+                1,
+                1,
+                20
+            ]
+        }
+    },
+    {
+        "No": 42,
+        "Name": "Arsox",
+        "IntName": "FlameBuffalo",
+        "Rarity": 4,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 2,
+            "Lumber": 1
+        },
+        "Food": 5,
+        "Drops": [
+            "Horn",
+            "Flame Organ"
+        ],
+        "Stats": {
+            "HP": 85,
+            "Def": 95,
+            "Melee": 100,
+            "Shot": 95,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 87,
+            "RSpeed": 600,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Horn": [
+                1,
+                3,
+                100
+            ],
+            "Flame Organ": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 43,
+        "Name": "Dumud",
+        "IntName": "LazyCatfish",
+        "Rarity": 4,
+        "Type": [
+            "Ground"
+        ],
+        "Work": {
+            "Water": 1,
+            "Mining": 2,
+            "Trans": 1,
+            "Oil": 1
+        },
+        "Food": 4,
+        "Drops": [
+            "Raw Dumud",
+            "High Quality Pal Oil"
+        ],
+        "Stats": {
+            "HP": 100,
+            "Def": 95,
+            "Melee": 100,
+            "Shot": 70,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 150,
+            "RSpeed": 450,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Raw Dumud": [
+                2,
+                2,
+                100
+            ],
+            "High Quality Pal Oil": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 44,
+        "Name": "Cawgnito",
+        "IntName": "DarkCrow",
+        "Rarity": 3,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Lumber": 1
+        },
+        "Food": 5,
+        "Drops": [
+            "Bone",
+            "Venom Gland",
+            "Small Pal Soul"
+        ],
+        "Stats": {
+            "HP": 75,
+            "Def": 80,
+            "Melee": 80,
+            "Shot": 95,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 170,
+            "RSpeed": 920,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Bone": [
+                2,
+                4,
+                100
+            ],
+            "Venom Gland": [
+                2,
+                2,
+                100
+            ],
+            "Small Pal Soul": [
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "No": 45,
+        "Name": "Leezpunk",
+        "IntName": "LizardMan",
+        "Rarity": 2,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Handi": 1,
+            "Gather": 1,
+            "Trans": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Copper Key",
+            "Silver Key"
+        ],
+        "Stats": {
+            "HP": 80,
+            "Def": 50,
+            "Melee": 90,
+            "Shot": 80,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 140,
+            "RSpeed": 600,
+            "MaleProb": 50,
+            "Noct": true
+        },
+        "Loot": {
+            "Copper Key": [
+                1,
+                1,
+                100
+            ],
+            "Silver Key": [
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "No": 45,
+        "Name": "Leezpunk Ignis",
+        "IntName": "LizardMan_Fire",
+        "Rarity": 3,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Handi": 1,
+            "Gather": 1,
+            "Trans": 1,
+            "Kind": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Flame Organ",
+            "Silver Key"
+        ],
+        "Stats": {
+            "HP": 80,
+            "Def": 50,
+            "Melee": 90,
+            "Shot": 80,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 140,
+            "RSpeed": 600,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                1,
+                2,
+                100
+            ],
+            "Silver Key": [
+                1,
+                1,
+                2
+            ]
+        }
+    },
+    {
+        "No": 46,
+        "Name": "Loupmoon",
+        "IntName": "Werewolf",
+        "Rarity": 3,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Handi": 2
+        },
+        "Food": 5,
+        "Drops": [
+            "Bone"
+        ],
+        "Stats": {
+            "HP": 80,
+            "Def": 80,
+            "Melee": 130,
+            "Shot": 100,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 150,
+            "RSpeed": 600,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Bone": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 47,
+        "Name": "Galeclaw",
+        "IntName": "Eagle",
+        "Rarity": 2,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Gather": 2
+        },
+        "Food": 4,
+        "Drops": [
+            "Galeclaw Poultry",
+            "Leather"
+        ],
+        "Stats": {
+            "HP": 75,
+            "Def": 0,
+            "Melee": 120,
+            "Shot": 85,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 200,
+            "RSpeed": 600,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Galeclaw Poultry": [
+                1,
+                1,
+                100
+            ],
+            "Leather": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 48,
+        "Name": "Robinquill",
+        "IntName": "RobinHood",
+        "Rarity": 5,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Gather": 2,
+            "Lumber": 1,
+            "Handi": 2,
+            "Med": 1,
+            "Plant": 1,
+            "Trans": 2
+        },
+        "Food": 3,
+        "Drops": [
+            "Wheat Seeds",
+            "Arrow"
+        ],
+        "Stats": {
+            "HP": 90,
+            "Def": 80,
+            "Melee": 100,
+            "Shot": 105,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 100,
+            "RSpeed": 600,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Wheat Seeds": [
+                1,
+                2,
+                50
+            ],
+            "Arrow": [
+                2,
+                4,
+                100
+            ]
+        }
+    },
+    {
+        "No": 48,
+        "Name": "Robinquill Terra",
+        "IntName": "RobinHood_Ground",
+        "Rarity": 6,
+        "Type": [
+            "Grass",
+            "Ground"
+        ],
+        "Work": {
+            "Gather": 2,
+            "Lumber": 1,
+            "Handi": 2,
+            "Med": 1,
+            "Trans": 2
+        },
+        "Food": 3,
+        "Drops": [
+            "Wheat Seeds",
+            "Arrow"
+        ],
+        "Stats": {
+            "HP": 90,
+            "Def": 80,
+            "Melee": 100,
+            "Shot": 105,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 100,
+            "RSpeed": 600,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Wheat Seeds": [
+                1,
+                2,
+                50
+            ],
+            "Arrow": [
+                2,
+                4,
+                100
+            ]
+        }
+    },
+    {
+        "No": 49,
+        "Name": "Gorirat",
+        "IntName": "Gorilla",
+        "Rarity": 5,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Lumber": 2,
+            "Handi": 1,
+            "Trans": 3
+        },
+        "Food": 3,
+        "Drops": [
+            "Leather",
+            "Bone"
+        ],
+        "Stats": {
+            "HP": 90,
+            "Def": 90,
+            "Melee": 110,
+            "Shot": 95,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 100,
+            "RSpeed": 550,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                1,
+                2,
+                100
+            ],
+            "Bone": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 50,
+        "Name": "Beegarde",
+        "IntName": "SoldierBee",
+        "Rarity": 4,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Plant": 1,
+            "Handi": 1,
+            "Gather": 1,
+            "Lumber": 1,
+            "Med": 1,
+            "Trans": 2,
+            "Farm": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Honey"
+        ],
+        "Stats": {
+            "HP": 80,
+            "Def": 90,
+            "Melee": 100,
+            "Shot": 90,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 250,
+            "RSpeed": 450,
+            "MaleProb": 10,
+            "Noct": false
+        },
+        "Loot": {
+            "Honey": [
+                1,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 51,
+        "Name": "Elizabee",
+        "IntName": "QueenBee",
+        "Rarity": 8,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Gather": 2,
+            "Lumber": 1,
+            "Handi": 2,
+            "Med": 2,
+            "Plant": 2
+        },
+        "Food": 7,
+        "Drops": [
+            "Honey",
+            "Elizabee's Staff"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Honey": [
+                5,
+                5,
+                100
+            ],
+            "Elizabee's Staff": [
+                1,
+                1,
+                3
+            ]
+        }
+    },
+    {
+        "No": 52,
+        "Name": "Grintale",
+        "IntName": "NaughtyCat",
+        "Rarity": 6,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Gather": 2
+        },
+        "Food": 4,
+        "Drops": [
+            "High Quality Pal Oil"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "High Quality Pal Oil": [
+                1,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 53,
+        "Name": "Swee",
+        "IntName": "MopBaby",
+        "Rarity": 1,
+        "Type": [
+            "Ice"
+        ],
+        "Work": {
+            "Gather": 1,
+            "Cool": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Wool"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Wool": [
+                1,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 54,
+        "Name": "Sweepa",
+        "IntName": "MopKing",
+        "Rarity": 6,
+        "Type": [
+            "Ice"
+        ],
+        "Work": {
+            "Gather": 2,
+            "Cool": 2
+        },
+        "Food": 3,
+        "Drops": [
+            "Wool"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Wool": [
+                3,
+                5,
+                100
+            ]
+        }
+    },
+    {
+        "No": 55,
+        "Name": "Chillet",
+        "IntName": "WeaselDragon",
+        "Rarity": 4,
+        "Type": [
+            "Ice",
+            "Dragon"
+        ],
+        "Work": {
+            "Gather": 1,
+            "Cool": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Leather"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 56,
+        "Name": "Univolt",
+        "IntName": "Kirin",
+        "Rarity": 5,
+        "Type": [
+            "Electric"
+        ],
+        "Work": {
+            "Elec": 2,
+            "Lumber": 1
+        },
+        "Food": 5,
+        "Drops": [
+            "Leather",
+            "Electric Organ",
+            "Horn"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                2,
+                2,
+                100
+            ],
+            "Electric Organ": [
+                1,
+                1,
+                100
+            ],
+            "Horn": [
+                1,
+                1,
+                50
+            ]
+        }
+    },
+    {
+        "No": 57,
+        "Name": "Foxcicle",
+        "IntName": "IceFox",
+        "Rarity": 5,
+        "Type": [
+            "Ice"
+        ],
+        "Work": {
+            "Cool": 2
+        },
+        "Food": 0,
+        "Drops": [
+            "Leather",
+            "Ice Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                1,
+                1,
+                100
+            ],
+            "Ice Organ": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 58,
+        "Name": "Pyrin",
+        "IntName": "FireKirin",
+        "Rarity": 6,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 2,
+            "Lumber": 1
+        },
+        "Food": 5,
+        "Drops": [
+            "Flame Organ",
+            "Leather"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                4,
+                5,
+                100
+            ],
+            "Leather": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 58,
+        "Name": "Pyrin Noct",
+        "IntName": "FireKirin_Dark",
+        "Rarity": 7,
+        "Type": [
+            "Fire",
+            "Dark"
+        ],
+        "Work": {
+            "Kind": 2,
+            "Lumber": 1
+        },
+        "Food": 5,
+        "Drops": [
+            "Flame Organ",
+            "Leather"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                4,
+                5,
+                100
+            ],
+            "Leather": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 59,
+        "Name": "Reindrix",
+        "IntName": "IceDeer",
+        "Rarity": 4,
+        "Type": [
+            "Ice"
+        ],
+        "Work": {
+            "Cool": 2,
+            "Lumber": 2
+        },
+        "Food": 7,
+        "Drops": [
+            "Reindrix Venison",
+            "Leather",
+            "Horn",
+            "Ice Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Reindrix Venison": [
+                2,
+                2,
+                100
+            ],
+            "Leather": [
+                1,
+                1,
+                100
+            ],
+            "Horn": [
+                2,
+                2,
+                100
+            ],
+            "Ice Organ": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 60,
+        "Name": "Rayhound",
+        "IntName": "ThunderDog",
+        "Rarity": 5,
+        "Type": [
+            "Electric"
+        ],
+        "Work": {
+            "Elec": 1
+        },
+        "Food": 5,
+        "Drops": [
+            "Electric Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Electric Organ": [
+                1,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 61,
+        "Name": "Kitsun",
+        "IntName": "AmaterasuWolf",
+        "Rarity": 6,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 1
+        },
+        "Food": 4,
+        "Drops": [
+            "Flame Organ",
+            "Leather"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                2,
+                3,
+                100
+            ],
+            "Leather": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 62,
+        "Name": "Dazzi",
+        "IntName": "RaijinDaughter",
+        "Rarity": 2,
+        "Type": [
+            "Electric"
+        ],
+        "Work": {
+            "Elec": 1,
+            "Handi": 1,
+            "Trans": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Electric Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Electric Organ": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 63,
+        "Name": "Lunaris",
+        "IntName": "Mutant",
+        "Rarity": 6,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Gather": 1,
+            "Handi": 3,
+            "Trans": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Paldium Fragment"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Paldium Fragment": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 64,
+        "Name": "Dinossom",
+        "IntName": "FlowerDinosaur",
+        "Rarity": 6,
+        "Type": [
+            "Grass",
+            "Dragon"
+        ],
+        "Work": {
+            "Plant": 2,
+            "Lumber": 2
+        },
+        "Food": 6,
+        "Drops": [
+            "Wheat Seeds"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Wheat Seeds": [
+                1,
+                2,
+                50
+            ]
+        }
+    },
+    {
+        "No": 64,
+        "Name": "Dinossom Lux",
+        "IntName": "FlowerDinosaur_Electric",
+        "Rarity": 7,
+        "Type": [
+            "Electric",
+            "Dragon"
+        ],
+        "Work": {
+            "Elec": 2,
+            "Lumber": 2
+        },
+        "Food": 6,
+        "Drops": [
+            "Tomato Seeds"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Tomato Seeds": [
+                1,
+                2,
+                50
+            ]
+        }
+    },
+    {
+        "No": 65,
+        "Name": "Surfent",
+        "IntName": "Serpent",
+        "Rarity": 4,
+        "Type": [
+            "Water"
+        ],
+        "Work": {
+            "Water": 1
+        },
+        "Food": 5,
+        "Drops": [
+            "Pal Fluids"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Pal Fluids": [
+                1,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 65,
+        "Name": "Surfent Terra",
+        "IntName": "Serpent_Ground",
+        "Rarity": 5,
+        "Type": [
+            "Ground"
+        ],
+        "Work": {
+            "Water": 1
+        },
+        "Food": 5,
+        "Drops": [
+            "Pal Fluids"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Pal Fluids": [
+                1,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 66,
+        "Name": "Maraith",
+        "IntName": "GhostBeast",
+        "Rarity": 6,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Gather": 2,
+            "Mining": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Bone",
+            "Small Pal Soul"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Bone": [
+                1,
+                2,
+                100
+            ],
+            "Small Pal Soul": [
+                1,
+                1,
+                15
+            ]
+        }
+    },
+    {
+        "No": 67,
+        "Name": "Digtoise",
+        "IntName": "DrillGame",
+        "Rarity": 5,
+        "Type": [
+            "Ground"
+        ],
+        "Work": {
+            "Mining": 3
+        },
+        "Food": 5,
+        "Drops": [
+            "Ore",
+            "High Quality Pal Oil"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Ore": [
+                2,
+                3,
+                100
+            ],
+            "High Quality Pal Oil": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 68,
+        "Name": "Tombat",
+        "IntName": "CatBat",
+        "Rarity": 5,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Gather": 2,
+            "Mining": 2,
+            "Trans": 2
+        },
+        "Food": 5,
+        "Drops": [
+            "Leather",
+            "Small Pal Soul"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                1,
+                2,
+                100
+            ],
+            "Small Pal Soul": [
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "No": 69,
+        "Name": "Lovander",
+        "IntName": "PinkLizard",
+        "Rarity": 5,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Handi": 2,
+            "Mining": 1,
+            "Med": 2,
+            "Trans": 2
+        },
+        "Food": 5,
+        "Drops": [
+            "Mushroom",
+            "Cake",
+            "Suspicious Juice",
+            "Strange Juice",
+            "Memory Wiping Medicine"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Mushroom": [
+                2,
+                4,
+                100
+            ],
+            "Cake": [
+                1,
+                1,
+                1
+            ],
+            "Suspicious Juice": [
+                1,
+                1,
+                1
+            ],
+            "Strange Juice": [
+                1,
+                1,
+                1
+            ],
+            "Memory Wiping Medicine": [
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "No": 70,
+        "Name": "Flambelle",
+        "IntName": "LavaGirl",
+        "Rarity": 1,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 1,
+            "Handi": 1,
+            "Trans": 1,
+            "Farm": 1
+        },
+        "Food": 2,
+        "Drops": [
+            "Flame Organ",
+            "High Quality Pal Oil"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                2,
+                3,
+                100
+            ],
+            "High Quality Pal Oil": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 71,
+        "Name": "Vanwyrm",
+        "IntName": "BirdDragon",
+        "Rarity": 4,
+        "Type": [
+            "Fire",
+            "Dark"
+        ],
+        "Work": {
+            "Kind": 1,
+            "Trans": 3
+        },
+        "Food": 6,
+        "Drops": [
+            "Bone",
+            "Ruby",
+            "Gold Coin"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Bone": [
+                1,
+                2,
+                100
+            ],
+            "Ruby": [
+                1,
+                2,
+                1
+            ],
+            "Gold Coin": [
+                10,
+                40,
+                10
+            ]
+        }
+    },
+    {
+        "No": 71,
+        "Name": "Vanwyrm Cryst",
+        "IntName": "BirdDragon_Ice",
+        "Rarity": 5,
+        "Type": [
+            "Ice",
+            "Dark"
+        ],
+        "Work": {
+            "Cool": 2,
+            "Trans": 3
+        },
+        "Food": 6,
+        "Drops": [
+            "Bone",
+            "Ice Organ",
+            "Sapphire"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Bone": [
+                1,
+                2,
+                100
+            ],
+            "Ice Organ": [
+                2,
+                3,
+                100
+            ],
+            "Sapphire": [
+                1,
+                1,
+                2
+            ]
+        }
+    },
+    {
+        "No": 72,
+        "Name": "Bushi",
+        "IntName": "Ronin",
+        "Rarity": 7,
+        "Type": [
+            "Ice",
+            "Dark"
+        ],
+        "Work": {
+            "Gather": 1,
+            "Lumber": 3,
+            "Kind": 2,
+            "Handi": 1,
+            "Trans": 2
+        },
+        "Food": 4,
+        "Drops": [
+            "Bone",
+            "Ingot"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Bone": [
+                1,
+                2,
+                100
+            ],
+            "Ingot": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 73,
+        "Name": "Beakon",
+        "IntName": "ThunderBird",
+        "Rarity": 6,
+        "Type": [
+            "Electric"
+        ],
+        "Work": {
+            "Gather": 1,
+            "Elec": 2,
+            "Trans": 3
+        },
+        "Food": 7,
+        "Drops": [
+            "Electric Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Electric Organ": [
+                1,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 74,
+        "Name": "Ragnahawk",
+        "IntName": "RedArmorBird",
+        "Rarity": 7,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 3,
+            "Trans": 3
+        },
+        "Food": 7,
+        "Drops": [
+            "Flame Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                5,
+                7,
+                100
+            ]
+        }
+    },
+    {
+        "No": 75,
+        "Name": "Katress",
+        "IntName": "CatMage",
+        "Rarity": 6,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Handi": 2,
+            "Med": 2,
+            "Trans": 2
+        },
+        "Food": 5,
+        "Drops": [
+            "Leather",
+            "Katress Hair",
+            "High Grade Technical Manual"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                1,
+                2,
+                100
+            ],
+            "Katress Hair": [
+                1,
+                1,
+                50
+            ],
+            "High Grade Technical Manual": [
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "No": 76,
+        "Name": "Wixen",
+        "IntName": "FoxMage",
+        "Rarity": 6,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 2,
+            "Handi": 3,
+            "Trans": 2
+        },
+        "Food": 5,
+        "Drops": [
+            "Flame Organ",
+            "High Grade Technical Manual"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                1,
+                2,
+                100
+            ],
+            "High Grade Technical Manual": [
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "No": 77,
+        "Name": "Verdash",
+        "IntName": "GrassRabbitMan",
+        "Rarity": 8,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Gather": 1,
+            "Lumber": 2,
+            "Handi": 3,
+            "Plant": 2,
+            "Trans": 2
+        },
+        "Food": 3,
+        "Drops": [
+            "Leather",
+            "Bone"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                1,
+                2,
+                100
+            ],
+            "Bone": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 78,
+        "Name": "Vaelet",
+        "IntName": "VioletFairy",
+        "Rarity": 8,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Gather": 2,
+            "Handi": 2,
+            "Med": 3,
+            "Plant": 2,
+            "Trans": 1
+        },
+        "Food": 3,
+        "Drops": [
+            "Low Grade Medical Supplies",
+            "Tomato Seeds"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Low Grade Medical Supplies": [
+                2,
+                2,
+                100
+            ],
+            "Tomato Seeds": [
+                1,
+                1,
+                50
+            ]
+        }
+    },
+    {
+        "No": 79,
+        "Name": "Sibelyx",
+        "IntName": "WhiteMoth",
+        "Rarity": 7,
+        "Type": [
+            "Ice"
+        ],
+        "Work": {
+            "Cool": 2,
+            "Farm": 1,
+            "Med": 2
+        },
+        "Food": 5,
+        "Drops": [
+            "High Quality Cloth",
+            "Ice Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "High Quality Cloth": [
+                1,
+                3,
+                100
+            ],
+            "Ice Organ": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 80,
+        "Name": "Elphidran",
+        "IntName": "FairyDragon",
+        "Rarity": 7,
+        "Type": [
+            "Dragon"
+        ],
+        "Work": {
+            "Lumber": 2
+        },
+        "Food": 6,
+        "Drops": [
+            "High Quality Pal Oil"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "High Quality Pal Oil": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 80,
+        "Name": "Elphidran Aqua",
+        "IntName": "FairyDragon_Water",
+        "Rarity": 8,
+        "Type": [
+            "Dragon"
+        ],
+        "Work": {
+            "Lumber": 2,
+            "Water": 3
+        },
+        "Food": 6,
+        "Drops": [
+            "High Quality Pal Oil"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "High Quality Pal Oil": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 81,
+        "Name": "Kelpsea",
+        "IntName": "Kelpie",
+        "Rarity": 1,
+        "Type": [
+            "Water"
+        ],
+        "Work": {
+            "Water": 1
+        },
+        "Food": 1,
+        "Drops": [
+            "Raw Kalsea",
+            "Pal Fluids"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Raw Kalsea": [
+                1,
+                1,
+                100
+            ],
+            "Pal Fluids": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 81,
+        "Name": "Kelpsea Ignis",
+        "IntName": "Kelpie_Fire",
+        "Rarity": 2,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 1
+        },
+        "Food": 1,
+        "Drops": [
+            "Raw Kalsea",
+            "Flame Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Raw Kalsea": [
+                1,
+                3,
+                100
+            ],
+            "Flame Organ": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 82,
+        "Name": "Azurobe",
+        "IntName": "BlueDragon",
+        "Rarity": 7,
+        "Type": [
+            "Water",
+            "Dragon"
+        ],
+        "Work": {
+            "Water": 3
+        },
+        "Food": 6,
+        "Drops": [
+            "Cloth"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Cloth": [
+                1,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 83,
+        "Name": "Cryolinx",
+        "IntName": "WhiteTiger",
+        "Rarity": 7,
+        "Type": [
+            "Ice"
+        ],
+        "Work": {
+            "Cool": 3,
+            "Lumber": 2,
+            "Handi": 1
+        },
+        "Food": 7,
+        "Drops": [
+            "Ice Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Ice Organ": [
+                1,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 84,
+        "Name": "Blazehowl",
+        "IntName": "Manticore",
+        "Rarity": 7,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Lumber": 2,
+            "Kind": 3
+        },
+        "Food": 7,
+        "Drops": [
+            "Flame Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                3,
+                5,
+                100
+            ]
+        }
+    },
+    {
+        "No": 84,
+        "Name": "Blazehowl Noct",
+        "IntName": "Manticore_Dark",
+        "Rarity": 8,
+        "Type": [
+            "Fire",
+            "Dark"
+        ],
+        "Work": {
+            "Lumber": 2,
+            "Kind": 3
+        },
+        "Food": 7,
+        "Drops": [
+            "Flame Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                3,
+                5,
+                100
+            ]
+        }
+    },
+    {
+        "No": 85,
+        "Name": "Relaxaurus",
+        "IntName": "LazyDragon",
+        "Rarity": 8,
+        "Type": [
+            "Dragon",
+            "Water"
+        ],
+        "Work": {
+            "Water": 2,
+            "Trans": 1
+        },
+        "Food": 7,
+        "Drops": [
+            "High Quality Pal Oil",
+            "Ruby"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "High Quality Pal Oil": [
+                1,
+                4,
+                100
+            ],
+            "Ruby": [
+                1,
+                1,
+                5
+            ]
+        }
+    },
+    {
+        "No": 85,
+        "Name": "Relaxaurus Lux",
+        "IntName": "LazyDragon_Electric",
+        "Rarity": 9,
+        "Type": [
+            "Dragon",
+            "Electric"
+        ],
+        "Work": {
+            "Elec": 3,
+            "Trans": 1
+        },
+        "Food": 7,
+        "Drops": [
+            "High Quality Pal Oil",
+            "Electric Organ",
+            "Sapphire"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "High Quality Pal Oil": [
+                1,
+                4,
+                100
+            ],
+            "Electric Organ": [
+                2,
+                3,
+                100
+            ],
+            "Sapphire": [
+                1,
+                1,
+                5
+            ]
+        }
+    },
+    {
+        "No": 86,
+        "Name": "Broncherry",
+        "IntName": "SakuraSaurus",
+        "Rarity": 7,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Plant": 3
+        },
+        "Food": 7,
+        "Drops": [
+            "Broncherry Meat",
+            "Tomato Seeds"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Broncherry Meat": [
+                2,
+                2,
+                100
+            ],
+            "Tomato Seeds": [
+                1,
+                2,
+                50
+            ]
+        }
+    },
+    {
+        "No": 86,
+        "Name": "Broncherry Aqua",
+        "IntName": "SakuraSaurus_Water",
+        "Rarity": 8,
+        "Type": [
+            "Grass",
+            "Water"
+        ],
+        "Work": {
+            "Water": 3
+        },
+        "Food": 7,
+        "Drops": [
+            "Broncherry Meat",
+            "Lettuce Seeds"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Broncherry Meat": [
+                2,
+                2,
+                100
+            ],
+            "Lettuce Seeds": [
+                1,
+                2,
+                50
+            ]
+        }
+    },
+    {
+        "No": 87,
+        "Name": "Petallia",
+        "IntName": "FlowerDoll",
+        "Rarity": 8,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Gather": 2,
+            "Handi": 2,
+            "Med": 2,
+            "Plant": 3,
+            "Trans": 1
+        },
+        "Food": 0,
+        "Drops": [
+            "Beautiful Flower"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Beautiful Flower": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 88,
+        "Name": "Reptyro",
+        "IntName": "VolcanicMonster",
+        "Rarity": 6,
+        "Type": [
+            "Fire",
+            "Ground"
+        ],
+        "Work": {
+            "Kind": 3,
+            "Mining": 3
+        },
+        "Food": 5,
+        "Drops": [
+            "Flame Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                5,
+                7,
+                100
+            ]
+        }
+    },
+    {
+        "No": 88,
+        "Name": "Reptyro Cryst",
+        "IntName": "VolcanicMonster_Ice",
+        "Rarity": 7,
+        "Type": [
+            "Ice",
+            "Ground"
+        ],
+        "Work": {
+            "Cool": 3,
+            "Mining": 3
+        },
+        "Food": 5,
+        "Drops": [
+            "Ice Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Ice Organ": [
+                3,
+                4,
+                100
+            ]
+        }
+    },
+    {
+        "No": 89,
+        "Name": "Kingpaca",
+        "IntName": "KingAlpaca",
+        "Rarity": 8,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Gather": 1
+        },
+        "Food": 7,
+        "Drops": [
+            "Wool"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Wool": [
+                5,
+                5,
+                100
+            ]
+        }
+    },
+    {
+        "No": 89,
+        "Name": "Kingpaca Cryst",
+        "IntName": "KingAlpaca_Ice",
+        "Rarity": 9,
+        "Type": [
+            "Ice"
+        ],
+        "Work": {
+            "Gather": 1,
+            "Cool": 3
+        },
+        "Food": 7,
+        "Drops": [
+            "Wool",
+            "Ice Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Wool": [
+                5,
+                5,
+                100
+            ],
+            "Ice Organ": [
+                3,
+                6,
+                100
+            ]
+        }
+    },
+    {
+        "No": 90,
+        "Name": "Mammorest",
+        "IntName": "GrassMammoth",
+        "Rarity": 8,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Lumber": 2,
+            "Mining": 2,
+            "Plant": 2
+        },
+        "Food": 8,
+        "Drops": [
+            "High Quality Pal Oil",
+            "Leather",
+            "Mammorest Meat"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "High Quality Pal Oil": [
+                5,
+                10,
+                100
+            ],
+            "Leather": [
+                5,
+                10,
+                100
+            ],
+            "Mammorest Meat": [
+                2,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 90,
+        "Name": "Mammorest Cryst",
+        "IntName": "GrassMammoth_Ice",
+        "Rarity": 9,
+        "Type": [
+            "Ice"
+        ],
+        "Work": {
+            "Lumber": 2,
+            "Mining": 2,
+            "Cool": 2
+        },
+        "Food": 8,
+        "Drops": [
+            "High Quality Pal Oil",
+            "Leather",
+            "Mammorest Meat"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "High Quality Pal Oil": [
+                5,
+                10,
+                100
+            ],
+            "Leather": [
+                5,
+                10,
+                100
+            ],
+            "Mammorest Meat": [
+                2,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 91,
+        "Name": "Wumpo",
+        "IntName": "Yeti",
+        "Rarity": 7,
+        "Type": [
+            "Ice"
+        ],
+        "Work": {
+            "Cool": 2,
+            "Lumber": 3,
+            "Handi": 2,
+            "Trans": 4
+        },
+        "Food": 8,
+        "Drops": [
+            "Ice Organ",
+            "Beautiful Flower"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Ice Organ": [
+                2,
+                3,
+                100
+            ],
+            "Beautiful Flower": [
+                1,
+                1,
+                20
+            ]
+        }
+    },
+    {
+        "No": 91,
+        "Name": "Wumpo Botan",
+        "IntName": "Yeti_Grass",
+        "Rarity": 8,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Plant": 1,
+            "Lumber": 3,
+            "Handi": 2,
+            "Trans": 4
+        },
+        "Food": 8,
+        "Drops": [
+            "Lettuce Seeds",
+            "Tomato Seeds",
+            "Beautiful Flower"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Lettuce Seeds": [
+                1,
+                1,
+                100
+            ],
+            "Tomato Seeds": [
+                1,
+                1,
+                100
+            ],
+            "Beautiful Flower": [
+                1,
+                1,
+                20
+            ]
+        }
+    },
+    {
+        "No": 92,
+        "Name": "Warsect",
+        "IntName": "HerculesBeetle",
+        "Rarity": 8,
+        "Type": [
+            "Ground",
+            "Grass"
+        ],
+        "Work": {
+            "Lumber": 3,
+            "Handi": 1,
+            "Plant": 1,
+            "Trans": 3
+        },
+        "Food": 6,
+        "Drops": [
+            "Honey"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Honey": [
+                3,
+                4,
+                100
+            ]
+        }
+    },
+    {
+        "No": 93,
+        "Name": "Fenglope",
+        "IntName": "FengyunDeeper",
+        "Rarity": 3,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Lumber": 2
+        },
+        "Food": 6,
+        "Drops": [
+            "Leather",
+            "Horn"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Leather": [
+                3,
+                3,
+                100
+            ],
+            "Horn": [
+                2,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 94,
+        "Name": "Felbat",
+        "IntName": "CatVampire",
+        "Rarity": 6,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Med": 3
+        },
+        "Food": 5,
+        "Drops": [
+            "Cloth",
+            "Small Pal Soul"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Cloth": [
+                1,
+                2,
+                100
+            ],
+            "Small Pal Soul": [
+                1,
+                1,
+                3
+            ]
+        }
+    },
+    {
+        "No": 95,
+        "Name": "Quivern",
+        "IntName": "SkyDragon",
+        "Rarity": 7,
+        "Type": [
+            "Dragon"
+        ],
+        "Work": {
+            "Gather": 2,
+            "Handi": 1,
+            "Mining": 2,
+            "Trans": 3
+        },
+        "Food": 4,
+        "Drops": [
+            "High Quality Pal Oil"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "High Quality Pal Oil": [
+                3,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 96,
+        "Name": "Blazamut",
+        "IntName": "KingBahamut",
+        "Rarity": 9,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 3,
+            "Mining": 4
+        },
+        "Food": 8,
+        "Drops": [
+            "Coal",
+            "Flame Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Coal": [
+                10,
+                10,
+                100
+            ],
+            "Flame Organ": [
+                10,
+                10,
+                100
+            ]
+        }
+    },
+    {
+        "No": 97,
+        "Name": "Helzephyr",
+        "IntName": "HadesBird",
+        "Rarity": 7,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Trans": 3
+        },
+        "Food": 8,
+        "Drops": [
+            "Venom Gland",
+            "Medium Pal Soul"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Venom Gland": [
+                1,
+                3,
+                100
+            ],
+            "Medium Pal Soul": [
+                1,
+                1,
+                3
+            ]
+        }
+    },
+    {
+        "No": 98,
+        "Name": "Astegon",
+        "IntName": "BlackMetalDragon",
+        "Rarity": 9,
+        "Type": [
+            "Dragon",
+            "Dark"
+        ],
+        "Work": {
+            "Mining": 4,
+            "Handi": 1,
+            "Oil": 3
+        },
+        "Food": 9,
+        "Drops": [
+            "Pal Metal Ingot",
+            "Pure Quartz"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Pal Metal Ingot": [
+                1,
+                2,
+                100
+            ],
+            "Pure Quartz": [
+                3,
+                5,
+                100
+            ]
+        }
+    },
+    {
+        "No": 99,
+        "Name": "Menasting",
+        "IntName": "DarkScorpion",
+        "Rarity": 9,
+        "Type": [
+            "Dark",
+            "Ground"
+        ],
+        "Work": {
+            "Lumber": 2,
+            "Mining": 3
+        },
+        "Food": 7,
+        "Drops": [
+            "Coal",
+            "Venom Gland"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Coal": [
+                10,
+                10,
+                100
+            ],
+            "Venom Gland": [
+                5,
+                10,
+                100
+            ]
+        }
+    },
+    {
+        "No": 100,
+        "Name": "Anubis",
+        "IntName": "Anubis",
+        "Rarity": 10,
+        "Type": [
+            "Ground"
+        ],
+        "Work": {
+            "Handi": 4,
+            "Mining": 3,
+            "Trans": 2
+        },
+        "Food": 6,
+        "Drops": [
+            "Bone",
+            "Large Pal Soul",
+            "Innovative Technical Manual"
+        ],
+        "Stats": {
+            "HP": 120,
+            "Def": 100,
+            "Melee": 130,
+            "Shot": 130,
+            "Craft": 100,
+            "Stam": 100,
+            "WSpeed": 160,
+            "RSpeed": 800,
+            "MaleProb": 50,
+            "Noct": false
+        },
+        "Loot": {
+            "Bone": [
+                3,
+                5,
+                100
+            ],
+            "Large Pal Soul": [
+                1,
+                1,
+                100
+            ],
+            "Innovative Technical Manual": [
+                1,
+                1,
+                5
+            ]
+        }
+    },
+    {
+        "No": 101,
+        "Name": "Jormuntide",
+        "IntName": "Umihebi",
+        "Rarity": 8,
+        "Type": [
+            "Dragon",
+            "Water"
+        ],
+        "Work": {
+            "Water": 4
+        },
+        "Food": 7,
+        "Drops": [
+            "Pal Fluids"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Pal Fluids": [
+                2,
+                4,
+                100
+            ]
+        }
+    },
+    {
+        "No": 101,
+        "Name": "Jormuntide Ignis",
+        "IntName": "Umihebi_Fire",
+        "Rarity": 9,
+        "Type": [
+            "Dragon",
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 4
+        },
+        "Food": 7,
+        "Drops": [
+            "High Quality Pal Oil",
+            "Flame Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "High Quality Pal Oil": [
+                2,
+                3,
+                100
+            ],
+            "Flame Organ": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 102,
+        "Name": "Suzaku",
+        "IntName": "Suzaku",
+        "Rarity": 8,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 3
+        },
+        "Food": 8,
+        "Drops": [
+            "Flame Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                5,
+                10,
+                100
+            ]
+        }
+    },
+    {
+        "No": 102,
+        "Name": "Suzaku Aqua",
+        "IntName": "Suzaku_Water",
+        "Rarity": 9,
+        "Type": [
+            "Water"
+        ],
+        "Work": {
+            "Water": 3
+        },
+        "Food": 8,
+        "Drops": [
+            "Pal Fluids"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Pal Fluids": [
+                5,
+                5,
+                100
+            ]
+        }
+    },
+    {
+        "No": 103,
+        "Name": "Grizzbolt",
+        "IntName": "ElecPanda",
+        "Rarity": 8,
+        "Type": [
+            "Electric"
+        ],
+        "Work": {
+            "Lumber": 2,
+            "Elec": 3,
+            "Handi": 2,
+            "Trans": 3
+        },
+        "Food": 7,
+        "Drops": [
+            "Electric Organ",
+            "Leather"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Electric Organ": [
+                2,
+                4,
+                100
+            ],
+            "Leather": [
+                2,
+                3,
+                100
+            ]
+        }
+    },
+    {
+        "No": 104,
+        "Name": "Lyleen",
+        "IntName": "LilyQueen",
+        "Rarity": 9,
+        "Type": [
+            "Grass"
+        ],
+        "Work": {
+            "Gather": 2,
+            "Handi": 3,
+            "Med": 3,
+            "Plant": 4
+        },
+        "Food": 6,
+        "Drops": [
+            "Low Grade Medical Supplies",
+            "Beautiful Flower",
+            "Innovative Technical Manual"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Low Grade Medical Supplies": [
+                3,
+                3,
+                100
+            ],
+            "Beautiful Flower": [
+                1,
+                2,
+                100
+            ],
+            "Innovative Technical Manual": [
+                1,
+                1,
+                10
+            ]
+        }
+    },
+    {
+        "No": 104,
+        "Name": "Lyleen Noct",
+        "IntName": "LilyQueen_Dark",
+        "Rarity": 10,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Gather": 2,
+            "Handi": 3,
+            "Med": 3
+        },
+        "Food": 6,
+        "Drops": [
+            "Low Grade Medical Supplies",
+            "Beautiful Flower",
+            "Innovative Technical Manual"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Low Grade Medical Supplies": [
+                3,
+                3,
+                100
+            ],
+            "Beautiful Flower": [
+                1,
+                2,
+                100
+            ],
+            "Innovative Technical Manual": [
+                1,
+                1,
+                10
+            ]
+        }
+    },
+    {
+        "No": 105,
+        "Name": "Faleris",
+        "IntName": "Horus",
+        "Rarity": 9,
+        "Type": [
+            "Fire"
+        ],
+        "Work": {
+            "Kind": 3,
+            "Trans": 3
+        },
+        "Food": 8,
+        "Drops": [
+            "Flame Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Flame Organ": [
+                1,
+                4,
+                100
+            ]
+        }
+    },
+    {
+        "No": 106,
+        "Name": "Orserk",
+        "IntName": "ThunderDragonMan",
+        "Rarity": 9,
+        "Type": [
+            "Dragon",
+            "Electric"
+        ],
+        "Work": {
+            "Elec": 4,
+            "Handi": 2,
+            "Trans": 3
+        },
+        "Food": 7,
+        "Drops": [
+            "Electric Organ"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Electric Organ": [
+                1,
+                2,
+                100
+            ]
+        }
+    },
+    {
+        "No": 107,
+        "Name": "Shadowbeak",
+        "IntName": "BlackGriffon",
+        "Rarity": 10,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Gather": 1
+        },
+        "Food": 8,
+        "Drops": [
+            "Pal Metal Ingot",
+            "Carbon Fiber",
+            "Innovative Technical Manual"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Pal Metal Ingot": [
+                1,
+                2,
+                100
+            ],
+            "Carbon Fiber": [
+                2,
+                3,
+                100
+            ],
+            "Innovative Technical Manual": [
+                1,
+                1,
+                10
+            ]
+        }
+    },
+    {
+        "No": 108,
+        "Name": "Paladius",
+        "IntName": "SaintCentaur",
+        "Rarity": 10,
+        "Type": [
+            "Neutral"
+        ],
+        "Work": {
+            "Lumber": 2,
+            "Mining": 2
+        },
+        "Food": 9,
+        "Drops": [
+            "Pal Metal Ingot",
+            "Diamond"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Pal Metal Ingot": [
+                10,
+                10,
+                100
+            ],
+            "Diamond": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 109,
+        "Name": "Necromus",
+        "IntName": "BlackCentaur",
+        "Rarity": 20,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Lumber": 2,
+            "Mining": 2
+        },
+        "Food": 9,
+        "Drops": [
+            "Pal Metal Ingot",
+            "Large Pal Soul"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Pal Metal Ingot": [
+                10,
+                10,
+                100
+            ],
+            "Large Pal Soul": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 110,
+        "Name": "Frostallion",
+        "IntName": "IceHorse",
+        "Rarity": 20,
+        "Type": [
+            "Ice"
+        ],
+        "Work": {
+            "Cool": 4
+        },
+        "Food": 7,
+        "Drops": [
+            "Ice Organ",
+            "Diamond"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Ice Organ": [
+                10,
+                10,
+                100
+            ],
+            "Diamond": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 110,
+        "Name": "Frostallion Noct",
+        "IntName": "IceHorse_Dark",
+        "Rarity": 20,
+        "Type": [
+            "Dark"
+        ],
+        "Work": {
+            "Gather": 4
+        },
+        "Food": 7,
+        "Drops": [
+            "Pure Quartz",
+            "Diamond"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Pure Quartz": [
+                10,
+                10,
+                100
+            ],
+            "Diamond": [
+                1,
+                1,
+                100
+            ]
+        }
+    },
+    {
+        "No": 111,
+        "Name": "Jetragon",
+        "IntName": "JetDragon",
+        "Rarity": 20,
+        "Type": [
+            "Dragon"
+        ],
+        "Work": {
+            "Gather": 3,
+            "Oil": 3
+        },
+        "Food": 9,
+        "Drops": [
+            "Pure Quartz",
+            "Polymer",
+            "Carbon Fiber",
+            "Diamond"
+        ],
+        "Stats": {
+            "HP": 0,
+            "Def": 0,
+            "Melee": 0,
+            "Shot": 0,
+            "Craft": 0,
+            "Stam": 0,
+            "WSpeed": 0,
+            "RSpeed": 0,
+            "MaleProb": 0,
+            "Noct": false
+        },
+        "Loot": {
+            "Pure Quartz": [
+                10,
+                10,
+                100
+            ],
+            "Polymer": [
+                5,
+                5,
+                100
+            ],
+            "Carbon Fiber": [
+                5,
+                5,
+                100
+            ],
+            "Diamond": [
+                1,
+                1,
+                30
+            ]
+        }
+    }
+]
