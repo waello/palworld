@@ -70,7 +70,7 @@ export default function About() {
               <div
                   className="flex flex-col items-center">
                 <Image
-                    className="h-8 w-8 rounded-full border lg:h-12 lg:w-12"
+                    className="h-12 w-12 rounded-full border lg:h-12 lg:w-12"
                     src={`/${targetPal.name}.webp`}
                     alt={targetPal.name}
                     width={50}
@@ -98,6 +98,15 @@ export default function About() {
                     attack Power
                   </span>
                 </div>
+                <div className="mt-3 flex flex-col items-center text-sm">
+                        <span className="text-xs font-medium text-muted-foreground">
+                    attack Power
+                  </span>
+                  <p className="text-gray-600">                    {targetPal.description}</p>
+
+
+
+                </div>
               </div>
 
 
@@ -108,25 +117,50 @@ export default function About() {
 
                 {/* Skills List */}
                 <div className="mt-4">
-                  <h3 className="font-semibold text-center">Skills</h3>
-                  {targetPal.skills.map((skill, index) => (
-                      <div key={index} className="mt-2">
-                        <span className="font-bold">{skill.name}</span> (Lvl {skill.level}):
-                        <span className="ml-2">{skill.description}</span>
-                      </div>
-                  ))}
+                  <h3 className="font-semibold text-center text-lg mb-4">Skills</h3>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                    {targetPal.skills.map((skill, index) => (
+                        <div key={index} className="skill-card bg-white rounded-lg shadow p-4 hover:bg-gray-100">
+                          <h4 className="font-bold text-primary mb-1">{skill.name} (Lvl {skill.level})</h4>
+                          <p className="text-sm text-gray-500 mb-2">Power: {skill.power} | Cooldown: {skill.cooldown}</p>
+                          <p className="text-gray-600">{skill.description}</p>
+                        </div>
+                    ))}
+                  </div>
                 </div>
+                {/* drop List */}
+
+                <div className="mt-6">
+                  <h3 className="font-semibold text-center text-lg mb-4">Drops</h3>
+                  <div className="flex flex-wrap justify-center gap-4">
+                    {targetPal.drops.map((drop, index) => (
+                        <div key={index} className="drop-card bg-white rounded-lg shadow p-3 hover:bg-gray-100">
+                          <span className="font-bold text-primary">{drop}</span>
+                        </div>
+                    ))}
+                  </div>
+                </div>
+
 
                 {/* Stats */}
                 <div className="mt-4">
-                  <h3 className="font-semibold text-center">Stats</h3>
-                  <div className="grid grid-cols-2 gap-2">
+                  <h3 className="font-semibold text-center text-lg mb-4">Stats</h3>
+                  <div className="flex flex-wrap justify-center gap-3">
                     {Object.entries(targetPal.stats).map(([key, value], index) => (
-                        <div key={index} className="flex justify-between">
-                          <span className="font-medium">{key}</span>
-                          <span className="font-regular">{value}</span>
+                        <div key={index} className="stat-tab p-2 rounded-lg shadow-lg bg-white hover:bg-gray-100">
+                          <span className="block text-sm font-semibold text-gray-700">{key}</span>
+                          <span className="block text-md font-bold text-primary mt-1">{value}</span>
                         </div>
                     ))}
+                  </div>
+                </div>
+                {/* aura */}
+
+                <div className="mt-6">
+                  <h3 className="font-semibold text-center text-lg mb-4">Aura</h3>
+                  <div className="aura-card bg-white rounded-lg shadow p-4 hover:bg-gray-100">
+                    <h4 className="font-bold text-primary mb-2">{targetPal.aura.name}</h4>
+                    <p className="text-gray-600">{targetPal.aura.description}</p>
                   </div>
                 </div>
               </div>
