@@ -5,6 +5,7 @@ import { type Pal } from '~/types'
 import { useState } from 'react'
 import { paldeck } from '~/app/paldeck'
 import Image from 'next/image'
+import Link from 'next/link';
 
 function getBreedingCombinations(pal: Pal | null) {
   if (!pal) return []
@@ -40,6 +41,7 @@ export default function HomePage() {
   return (
     <main>
       <AppHeader />
+
       <div className="mx-auto flex h-full w-full flex-col gap-3 px-6 pb-3 lg:w-[50%] lg:gap-6 lg:px-0 lg:pb-6">
         <div className="flex flex-col items-center pb-3 pt-6 lg:gap-1.5">
           <h1 className="leading-tighter text-2xl font-bold tracking-tighter [text-wrap:balance] sm:text-4xl md:text-5xl lg:text-6xl/none">
@@ -62,6 +64,8 @@ export default function HomePage() {
             Compatible Parents
           </h2>
         )}
+
+
         {getBreedingCombinations(targetPal).map((combination, index) => (
           <div
             key={index}
@@ -91,6 +95,14 @@ export default function HomePage() {
                   </span>
                   <span className="text-xs font-medium text-muted-foreground">
                     Breeding power
+                  </span>
+                </div>
+                <div className="mt-3 flex flex-col items-center text-sm">
+                  <span className="text-xl font-medium tabular-nums leading-tight tracking-tighter">
+                    {pal.stats['Attack']}
+                  </span>
+                  <span className="text-xs font-medium text-muted-foreground">
+                    attack Power
                   </span>
                 </div>
               </div>
