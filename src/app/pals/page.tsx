@@ -100,7 +100,6 @@ export default function About() {
                 </div>
                 <div className="mt-3 flex flex-col items-center text-sm">
                         <span className="text-xs font-medium text-muted-foreground">
-                    attack Power
                   </span>
                   <p className="text-gray-600">                    {targetPal.description}</p>
 
@@ -131,13 +130,32 @@ export default function About() {
                 {/* drop List */}
 
                 <div className="mt-6">
-                  <h3 className="font-semibold text-center text-lg mb-4">Drops</h3>
-                  <div className="flex flex-wrap justify-center gap-4">
-                    {targetPal.drops.map((drop, index) => (
-                        <div key={index} className="drop-card bg-white rounded-lg shadow p-3 hover:bg-gray-100">
-                          <span className="font-bold text-primary">{drop}</span>
-                        </div>
-                    ))}
+                  <div className="combined-card bg-white rounded-lg shadow p-4 hover:bg-gray-100">
+
+                    {/* Aura Section */}
+                    <div className="mb-6">
+                      <h3 className="font-semibold text-center text-lg mb-4 text-green-600">Aura</h3>
+                      <div className="text-black">
+                        <h4 className="font-bold mb-2">{targetPal.aura.name}</h4>
+                        <p>{targetPal.aura.description}</p>
+                      </div>
+                    </div>
+
+                    {/* Divider Line */}
+                    <hr className="border-t border-gray-200 my-4" />
+
+                    {/* Drops Section */}
+                    <div>
+                      <h3 className="font-semibold text-center text-lg mb-4 text-green-600">Drops</h3>
+                      <div className="flex flex-wrap justify-center gap-4 text-black">
+                        {targetPal.drops.map((drop, index) => (
+                            <div key={index} className="drop-card bg-gray-50 rounded-lg shadow p-3 hover:bg-gray-200">
+                              <span className="font-bold">{drop}</span>
+                            </div>
+                        ))}
+                      </div>
+                    </div>
+
                   </div>
                 </div>
 
@@ -156,13 +174,6 @@ export default function About() {
                 </div>
                 {/* aura */}
 
-                <div className="mt-6">
-                  <h3 className="font-semibold text-center text-lg mb-4">Aura</h3>
-                  <div className="aura-card bg-white rounded-lg shadow p-4 hover:bg-gray-100">
-                    <h4 className="font-bold text-primary mb-2">{targetPal.aura.name}</h4>
-                    <p className="text-gray-600">{targetPal.aura.description}</p>
-                  </div>
-                </div>
               </div>
           )}
 
